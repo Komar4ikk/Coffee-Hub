@@ -31,7 +31,7 @@ pip install python-dotenv rich tqdm google-genai mistralai groq
    - Rename the `env.example.txt` file to `env.txt`.
    - Open `env.txt` and paste your actual API keys from the respective provider dashboards:
 
-   ```env
+```env
 GEMINI_API_KEY=your_actual_gemini_key
 MISTRAL_API_KEY=your_actual_mistral_key
 GROQ_API_KEY=your_actual_groq_key
@@ -45,4 +45,4 @@ GROQ_API_KEY=your_actual_groq_key
 python main.py
 ```
 
-PS. Sorry, I didn't just make the file .env, but env.txt. I'm too lazy to change the code now, but maybe everything will be fine in the next updates ;)
+P.S. Sorry, I didn't just make the file .env, but env.txt. I'm too lazy to change the code now, but maybe everything will be fine in the next updates ;)
