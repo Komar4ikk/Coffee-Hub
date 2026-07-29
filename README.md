@@ -34,6 +34,7 @@ A Console-based multi-AI chat hub powered by Python, featuring support for three
    *(Note: The actual `env.txt` file is protected by `.gitignore` and will not be published to GitHub).*
 
 4. **Run the program:**
+5. 
    python main.py
 
 PS. Sorry, I didn't just make the file .env, but env.txt. I'm too lazy to change the code now, but maybe everything will be fine in the next updates ;)
